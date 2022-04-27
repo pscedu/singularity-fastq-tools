@@ -29,5 +29,6 @@ From: ubuntu:16.04
     cp  fastq-tools-0.8/src/fastq-qual    /usr/local/bin/fastq-qual
     cp  fastq-tools-0.8/src/fastq-sample  /usr/local/bin/fastq-sample
     cp  fastq-tools-0.8/src/fastq-qualadj /usr/local/bin/fastq-qualadj
+    cp  fastq-tools-0.8/src/fastq-sort  /usr/local/bin/fastq-sort
     cp  fastq-tools-0.8/src/fastq-qscale  /usr/local/bin/fastq-qscale
     chmod u+x /usr/local/bin/fastq*

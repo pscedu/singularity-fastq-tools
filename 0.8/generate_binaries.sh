@@ -6,6 +6,7 @@ fastq-match
 fastq-uniq
 fastq-qual
 fastq-sample
+fastq-sort
 fastq-qualadj
 fastq-qscale)
 
